@@ -1,0 +1,5 @@
+<launch>
+
+<node name="servo_control_node" pkg="servo_controller" type="servo_control_node.py" output="screen"/>
+  
+</launch>

@@ -1,0 +1,5 @@
+<launch>
+
+  <include file="$(find servo_controller)/launch/servo_controller.launch" />
+   
+</launch>
